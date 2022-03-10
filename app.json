@@ -19,12 +19,12 @@
     "TG_BOT_TOKEN": {
       "description": "Your bot token, as a string.",
       "value": ""
-      "required": false
-    },
-    "CHAT_BASE_TOKEN": {
-      "description": "Your chat base token, as a string.",
-      "value": ""
-    },
+   } , 
+
+
+
+
+
     "APP_ID": {
       "description": "Get this value from https://my.telegram.org",
       "value": ""
